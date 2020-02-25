@@ -1,0 +1,30 @@
+body{
+    background: url("gym.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+div{
+    background-color: coral;
+    font-size: 30px;
+    opacity: 0.7;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: 300px;
+    margin-top: 40px;
+    border-radius: 25px;
+}
+h1{
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+}
+div{
+    text-align: center;
+    
+}
+button{
+    border-radius: 8px;
+}
+
+
